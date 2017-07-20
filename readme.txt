@@ -2,4 +2,4 @@ hello git.
 welcome.
 hahha
 
-from master
+from master and dev
